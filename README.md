@@ -10,3 +10,6 @@ Testing Html Below
 <p1>Paragraph 1<p1>
 
 <br> Line Break <br>
+
+
+<font color="#58FA82">This is colored font.</font>
