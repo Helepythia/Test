@@ -13,3 +13,18 @@ Testing Html Below
 
 
 <font color="#58FA82">This is colored font.</font>
+
+************
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
