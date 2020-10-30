@@ -13,3 +13,7 @@ Testing Html Below
 
 
 <font color="#58FA82">This is colored font.</font>
+For folder
+mnelson:Desktop mnelson$ cd ~/Desktop
+mnelson:Desktop mnelson$ mkdir myproject
+mnelson:Desktop mnelson$ cd myproject/
